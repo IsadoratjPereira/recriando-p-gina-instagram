@@ -1,2 +1,2 @@
-# recriando-p-gina-instagram
+# recriando-pagina-instagram
 Recriando a Página Inicial do Instagram
